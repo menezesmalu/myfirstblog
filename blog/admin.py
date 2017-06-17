@@ -3,4 +3,4 @@ from .models import Post
 
 # Register your models here.
 
-admin.site.register(Post) #visivel na pasta de administração
+admin.site.register(Post) #visivel na pasta de administracao
