@@ -25,7 +25,7 @@ SECRET_KEY = 'ms86d5p@(1_ldhobx$jhq7sun8a#k#m+3w#+ju9g*!!lfacwn*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["malu.pythonanywhere.com"]
+ALLOWED_HOSTS = ["malu.pythonanywhere.com", "127.0.0.1"]
 
 
 # Application definition
